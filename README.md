@@ -1,7 +1,6 @@
 # Commerx App
 
-Uma aplicação completa de e-commerce desenvolvida com Next.js no frontend e Node.js no backend, utilizando TypeScript em
-ambos os lados.
+Uma aplicação teste de carrinho de comprar de e-commerce desenvolvida com Next.js no frontend e Node.js no backend, utilizando TypeScript em ambos os lados.
 
 ## 🚀 Funcionalidades
 
