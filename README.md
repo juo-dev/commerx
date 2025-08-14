@@ -246,9 +246,9 @@ O backend pode ser deployado em:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Motivação
 
-**Juo-dev** - Aplicação desenvolvida como teste técnico demonstrando competências em desenvolvimento full-stack com
+Aplicação desenvolvida como teste técnico demonstrando competências em desenvolvimento full-stack com
 Next.js e Node.js.
 
 ---
