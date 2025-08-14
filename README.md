@@ -64,7 +64,7 @@ Uma aplicação teste de carrinho de compras de e-commerce desenvolvida com Next
 
 ```bash
 git clone <url-do-repositorio>
-cd ecommerce-app
+cd commerx
 ```
 
 ### 2. Instale as dependências do backend
